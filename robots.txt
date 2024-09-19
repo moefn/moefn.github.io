@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://moefn.github.io/BWP/sitemap.BWP.gz
